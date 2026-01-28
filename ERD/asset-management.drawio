@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="29.3.4">
   <diagram name="Page-1" id="0x3QBNfIghdhlaunoyCf">
-    <mxGraphModel dx="1675" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
             <mxPoint x="199.99999999999994" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-91" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="sys_permissions" vertex="1">
+        <mxCell id="1LImJqqbPw06bJJ2AGuU-91" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="sys_permissions" vertex="1">
           <mxGeometry height="386" width="160" x="640" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-92" parent="1LImJqqbPw06bJJ2AGuU-91" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id (uuid) PK" vertex="1">
@@ -1351,7 +1351,7 @@
         <mxCell id="pUkB-1nG2HCqRkU0BE0i-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sudah Masuk Entity" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="-160" as="geometry" />
         </mxCell>
-        <mxCell id="pUkB-1nG2HCqRkU0BE0i-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="sys_role_permissions" vertex="1">
+        <mxCell id="pUkB-1nG2HCqRkU0BE0i-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="sys_role_permissions" vertex="1">
           <mxGeometry height="86" width="160" x="460" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="pUkB-1nG2HCqRkU0BE0i-7" parent="pUkB-1nG2HCqRkU0BE0i-6" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_role (uuid)" vertex="1">
