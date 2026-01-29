@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="29.3.6">
   <diagram name="Page-1" id="0x3QBNfIghdhlaunoyCf">
-    <mxGraphModel dx="1988" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,8 +598,8 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="481" />
-              <mxPoint x="940" y="360" />
-              <mxPoint x="1200" y="360" />
+              <mxPoint x="940" y="350" />
+              <mxPoint x="1200" y="350" />
               <mxPoint x="1200" y="871" />
             </Array>
             <mxPoint x="1070" y="550" as="sourcePoint" />
@@ -628,8 +628,8 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="481" />
-              <mxPoint x="930" y="370" />
-              <mxPoint x="1200" y="370" />
+              <mxPoint x="930" y="350" />
+              <mxPoint x="1200" y="350" />
               <mxPoint x="1200" y="841" />
             </Array>
             <mxPoint x="550" y="-40" as="sourcePoint" />
@@ -705,8 +705,8 @@
               <mxPoint x="240" y="641" />
               <mxPoint x="240" y="590" />
               <mxPoint x="480" y="590" />
-              <mxPoint x="480" y="410" />
-              <mxPoint x="1200" y="410" />
+              <mxPoint x="480" y="350" />
+              <mxPoint x="1200" y="350" />
               <mxPoint x="1200" y="91" />
             </Array>
             <mxPoint x="550" y="-40" as="sourcePoint" />
@@ -753,8 +753,8 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="481" />
-              <mxPoint x="940" y="380" />
-              <mxPoint x="1200" y="380" />
+              <mxPoint x="940" y="350" />
+              <mxPoint x="1200" y="350" />
               <mxPoint x="1200" y="421" />
             </Array>
             <mxPoint x="550" y="-40" as="sourcePoint" />
@@ -767,8 +767,8 @@
               <mxPoint x="240" y="641" />
               <mxPoint x="240" y="590" />
               <mxPoint x="480" y="590" />
-              <mxPoint x="480" y="410" />
-              <mxPoint x="1200" y="410" />
+              <mxPoint x="480" y="350" />
+              <mxPoint x="1200" y="350" />
               <mxPoint x="1200" y="391" />
             </Array>
             <mxPoint x="550" y="-40" as="sourcePoint" />
@@ -1218,7 +1218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-428" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=12;" value="mt_inventory_storage_detail" vertex="1">
-          <mxGeometry height="296" width="160" x="980" y="420" as="geometry" />
+          <mxGeometry height="296" width="160" x="980" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-429" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id (uuid) PK" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
@@ -1252,8 +1252,7 @@
             <Array as="points">
               <mxPoint x="720" y="461" />
               <mxPoint x="720" y="430" />
-              <mxPoint x="960" y="430" />
-              <mxPoint x="960" y="491" />
+              <mxPoint x="980" y="430" />
             </Array>
             <mxPoint x="700" y="470" as="sourcePoint" />
             <mxPoint x="800" y="370" as="targetPoint" />
@@ -1265,7 +1264,7 @@
               <mxPoint x="730" y="1261" />
               <mxPoint x="730" y="1390" />
               <mxPoint x="950" y="1390" />
-              <mxPoint x="950" y="521" />
+              <mxPoint x="950" y="461" />
             </Array>
             <mxPoint x="910" y="1200" as="sourcePoint" />
             <mxPoint x="1010" y="1100" as="targetPoint" />
