@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="29.3.6">
   <diagram name="Page-1" id="0x3QBNfIghdhlaunoyCf">
-    <mxGraphModel dx="1850" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1226,13 +1226,13 @@
         <mxCell id="1LImJqqbPw06bJJ2AGuU-430" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_inventory_storage (uuid)" vertex="1">
           <mxGeometry height="30" width="160" y="56" as="geometry" />
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-431" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_item_unit (uuid)" vertex="1">
+        <mxCell id="1LImJqqbPw06bJJ2AGuU-433" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="name (text)" vertex="1">
           <mxGeometry height="30" width="160" y="86" as="geometry" />
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-432" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="is_available (boolean)" vertex="1">
+        <mxCell id="PODyvtXf6qPxIE--Hd7B-5" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="asset_tag (varchar)" vertex="1">
           <mxGeometry height="30" width="160" y="116" as="geometry" />
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-433" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="information (text)" vertex="1">
+        <mxCell id="PODyvtXf6qPxIE--Hd7B-6" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="status (enum)" vertex="1">
           <mxGeometry height="30" width="160" y="146" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-434" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="created_by (varchar)" vertex="1">
@@ -1247,27 +1247,14 @@
         <mxCell id="1LImJqqbPw06bJJ2AGuU-437" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="modified_on (datetime)" vertex="1">
           <mxGeometry height="30" width="160" y="266" as="geometry" />
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-439" edge="1" parent="1" source="1LImJqqbPw06bJJ2AGuU-315" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1LImJqqbPw06bJJ2AGuU-430" value="">
+        <mxCell id="1LImJqqbPw06bJJ2AGuU-439" edge="1" parent="1" source="1LImJqqbPw06bJJ2AGuU-315" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1LImJqqbPw06bJJ2AGuU-430" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="461" />
-              <mxPoint x="720" y="430" />
-              <mxPoint x="980" y="430" />
+              <mxPoint x="720" y="431" />
             </Array>
             <mxPoint x="700" y="470" as="sourcePoint" />
-            <mxPoint x="800" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-442" edge="1" parent="1" source="1LImJqqbPw06bJJ2AGuU-414" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1LImJqqbPw06bJJ2AGuU-431" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="1261" />
-              <mxPoint x="730" y="1390" />
-              <mxPoint x="950" y="1390" />
-              <mxPoint x="950" y="461" />
-            </Array>
-            <mxPoint x="910" y="1200" as="sourcePoint" />
-            <mxPoint x="1010" y="1100" as="targetPoint" />
+            <mxPoint x="940" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-458" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="tr_request_loan_item" vertex="1">
