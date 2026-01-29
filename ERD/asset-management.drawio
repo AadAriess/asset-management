@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="29.3.6">
   <diagram name="Page-1" id="0x3QBNfIghdhlaunoyCf">
-    <mxGraphModel dx="2587" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,7 +1170,7 @@
         <mxCell id="1LImJqqbPw06bJJ2AGuU-411" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ELASTICSEARCH&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;OPENCV (VISUAL AUDIT)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="380" width="650" x="880" y="4500" as="geometry" />
         </mxCell>
-        <mxCell id="1LImJqqbPw06bJJ2AGuU-428" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=12;" value="mt_inventory_storage_detail" vertex="1">
+        <mxCell id="1LImJqqbPw06bJJ2AGuU-428" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=12;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="mt_inventory_storage_detail" vertex="1">
           <mxGeometry height="296" width="160" x="980" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-429" parent="1LImJqqbPw06bJJ2AGuU-428" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id (uuid) PK" vertex="1">
