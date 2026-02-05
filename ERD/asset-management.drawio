@@ -1345,7 +1345,7 @@
           <mxGeometry height="30" width="120" x="260" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="4IkPKGMV8iP95zHW2PNT-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="mt_audit_evidence" vertex="1">
-          <mxGeometry height="296" width="160" x="505" y="1420" as="geometry" />
+          <mxGeometry height="296" width="160" x="495" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="4IkPKGMV8iP95zHW2PNT-2" parent="4IkPKGMV8iP95zHW2PNT-1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id (uuid) PK" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
