@@ -423,10 +423,10 @@
         <mxCell id="3KSn4eSQfy3-GqY2XcSv-6" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="acknowledged_note (text)" vertex="1">
           <mxGeometry height="30" width="160" y="326" as="geometry" />
         </mxCell>
-        <mxCell id="3KSn4eSQfy3-GqY2XcSv-5" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="acknowledged&amp;nbsp;(datetime)" vertex="1">
+        <mxCell id="3KSn4eSQfy3-GqY2XcSv-5" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="acknowledged_on (datetime)" vertex="1">
           <mxGeometry height="30" width="160" y="356" as="geometry" />
         </mxCell>
-        <mxCell id="3KSn4eSQfy3-GqY2XcSv-4" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="acknowledged&amp;nbsp;(varchar)" vertex="1">
+        <mxCell id="3KSn4eSQfy3-GqY2XcSv-4" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="acknowledged_by (varchar)" vertex="1">
           <mxGeometry height="30" width="160" y="386" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-457" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="parent_loan_id" vertex="1">
