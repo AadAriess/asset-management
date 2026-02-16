@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
   <diagram name="Page-1" id="0x3QBNfIghdhlaunoyCf">
-    <mxGraphModel dx="1793" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2225" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,7 +369,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-149" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="tr_request_loan" vertex="1">
-          <mxGeometry height="446" width="160" x="520" y="620" as="geometry" />
+          <mxGeometry height="476" width="160" x="520" y="620" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-150" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id (uuid) PK" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
@@ -412,6 +412,9 @@
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-457" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="parent_loan_id" vertex="1">
           <mxGeometry height="30" width="160" y="416" as="geometry" />
+        </mxCell>
+        <mxCell id="uahVrnVo_Yaq_aIcGgdu-1" parent="1LImJqqbPw06bJJ2AGuU-149" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id_accounting_unit&amp;nbsp;(uuid) FK" vertex="1">
+          <mxGeometry height="30" width="160" y="446" as="geometry" />
         </mxCell>
         <mxCell id="1LImJqqbPw06bJJ2AGuU-165" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="tr_request_loan_detail" vertex="1">
           <mxGeometry height="266" width="160" x="760" y="740" as="geometry" />
