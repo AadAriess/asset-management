@@ -1806,9 +1806,7 @@
             <Array as="points">
               <mxPoint x="955" y="1291" />
               <mxPoint x="955" y="1040" />
-              <mxPoint x="730" y="1040" />
-              <mxPoint x="730" y="1081" />
-              <mxPoint x="700" y="1081" />
+              <mxPoint x="700" y="1040" />
               <mxPoint x="700" y="901" />
             </Array>
             <mxPoint x="1060" y="1240" as="sourcePoint" />
